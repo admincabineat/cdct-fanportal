@@ -156,7 +156,7 @@ a {
   top: 0;
   z-index: 11;
   overflow: hidden;
-  background: #FA5260;
+  background: #FD1359;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -289,7 +289,7 @@ a {
   position: absolute;
   left: 0;
   top: 0;
-  background: #FA5260;
+  background: #FD1359;
   transition-delay: 0.8s;
 }
 .navigation-menu .inner {
@@ -734,7 +734,7 @@ a {
   content: "";
   width: 60%;
   height: 20px;
-  background: #FA5260;
+  background: #FD1359;
   position: absolute;
   right: 0;
   top: 0;
@@ -744,7 +744,7 @@ a {
   content: "";
   width: 60%;
   height: 70px;
-  background: #FA5260;
+  background: #FD1359;
   position: absolute;
   left: 40px;
   bottom: 0;
@@ -781,7 +781,7 @@ a {
   z-index: -1;
 }
 .header h2 {
-  font-size: 8vw;
+  font-size: 6vw;
   color: #fff;
   font-weight: 800;
   margin-bottom: 40px;
@@ -1270,7 +1270,7 @@ main {
 .works .works-grid li figure figcaption span {
   width: 3px;
   height: 50px;
-  background: #FA5260;
+  background: #FD1359;
   position: absolute;
   left: 20px;
   top: -80%;
@@ -1384,7 +1384,7 @@ main {
   content: "";
   width: 6px;
   height: 6px;
-  background: #FA5260;
+  background: #FD1359;
   position: absolute;
   left: 50%;
   bottom: 0;
@@ -1757,7 +1757,7 @@ main {
   margin-right: 10px;
 }
 .team ul li figure figcaption .social-links a:hover {
-  color: #FA5260;
+  color: #FD1359;
 }
 .team ul li figure figcaption small {
   display: block;
@@ -1808,7 +1808,7 @@ main {
   height: 44px;
   line-height: 44px;
   float: left;
-  background: #FA5260;
+  background: #FD1359;
   color: #fff;
   border: none;
   border-radius: 0;
@@ -1852,7 +1852,7 @@ main {
   display: block;
   padding: 40px;
   margin-bottom: 40px;
-  background: #FA5260;
+  background: #FD1359;
   color: #fff;
   font-family: "Raleway", serif;
   position: relative;
@@ -1876,7 +1876,7 @@ main {
   bottom: -20px;
   border-style: solid;
   border-width: 20px 20px 0 0;
-  border-color: #FA5260 transparent transparent transparent;
+  border-color: #FD1359 transparent transparent transparent;
 }
 .blog .post .post-content blockquote h5 {
   font-weight: 800;
@@ -1938,7 +1938,7 @@ main {
 }
 .blog .post .post-content .post-link:hover {
   text-decoration: none;
-  color: #FA5260;
+  color: #FD1359;
 }
 .blog .post .post-content .post-link:hover:before {
   width: 0;
@@ -1947,7 +1947,7 @@ main {
   content: "";
   width: 100%;
   height: 2px;
-  background: #FA5260;
+  background: #FD1359;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -2092,7 +2092,7 @@ main {
   margin-top: 10px;
 }
 .contact form .form-group .error {
-  color: #FA5260;
+  color: #FD1359;
 }
 
 /* FOOTER */
